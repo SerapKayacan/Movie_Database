@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\MovieDatabase\MovieDatabase\bin\Debug\MovieDatabase.exe.config
+C:\Users\USER\source\repos\MovieDatabase\MovieDatabase\bin\Debug\MovieDatabase.exe
+C:\Users\USER\source\repos\MovieDatabase\MovieDatabase\bin\Debug\MovieDatabase.pdb
+C:\Users\USER\source\repos\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.Form1.resources
+C:\Users\USER\source\repos\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.Properties.Resources.resources
+C:\Users\USER\source\repos\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.exe
+C:\Users\USER\source\repos\MovieDatabase\MovieDatabase\obj\Debug\MovieDatabase.pdb
